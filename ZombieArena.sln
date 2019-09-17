@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZombieArena", "ZombieArena\ZombieArena.vcxproj", "{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Debug|x64.ActiveCfg = Debug|x64
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Debug|x64.Build.0 = Debug|x64
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Debug|x86.Build.0 = Debug|Win32
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Release|x64.ActiveCfg = Release|x64
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Release|x64.Build.0 = Release|x64
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Release|x86.ActiveCfg = Release|Win32
+		{06AF6FC6-870A-4DF3-98CB-4331A4A773AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E2708D-3DC7-4889-9D0E-3450D458C349}
+	EndGlobalSection
+EndGlobal
