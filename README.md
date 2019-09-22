@@ -7,3 +7,6 @@ Choose the boost you want before each
 - Shoot: left mouse button
 - Recharge: R
 - Quit: ESC
+
+
+[Donwload](https://drive.google.com/open?id=1N9s6ZMEDnq_60pngW7Y8AfmXI-jg6BpU) and play the game
