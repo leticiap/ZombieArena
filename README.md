@@ -1,6 +1,6 @@
 # Zombie Arena
 Your objective is to kill all the zombies. Keep an eye at your ammo, as it is limited.
-Choose the boost you want before each 
+Choose the boost you want before each level.
 ### Commands
 - Use your mouse to aim
 - Move: WASD
